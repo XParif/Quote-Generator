@@ -111,11 +111,6 @@ const quotes = [
     author: "Christopher Columbus",
   },
   {
-    quote:
-      "I’ve learned that people will forget what you said, people will forget what you did, but people will never forget how you made them feel.",
-    author: "Maya Angelou",
-  },
-  {
     quote: "Either you run the day, or the day runs you.",
     author: "Jim Rohn",
   },
@@ -170,11 +165,6 @@ const quotes = [
     quote:
       "Go confidently in the direction of your dreams.  Live the life you have imagined.",
     author: "Henry David Thoreau",
-  },
-  {
-    quote:
-      "Few things can help an individual more than to place responsibility on him, and to let him know that you trust him.",
-    author: "Booker T. Washington",
   },
   {
     quote:
@@ -268,11 +258,7 @@ const quotes = [
     quote: "If you want to lift yourself up, lift up someone else.",
     author: "Booker T. Washington",
   },
-  {
-    quote:
-      "I have been impressed with the urgency of doing. Knowing is not enough; we must apply. Being willing is not enough; we must do.",
-    author: "Leonardo da Vinci",
-  },
+
   {
     quote:
       "Limitations live only in our minds.  But if we use our imaginations, our possibilities become limitless.",
